@@ -6,3 +6,4 @@ Author: Rajarajan
 2.Chat screen code
 3.Last seen code
 4.Attachments(images,videos,Audios)code
+5.Hiding the last seen
