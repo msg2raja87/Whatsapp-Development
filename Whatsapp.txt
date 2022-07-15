@@ -7,3 +7,5 @@ Author: Rajarajan
 3.Last seen code
 4.Attachments(images,videos,Audios)code
 5.Hiding the last seen
+6.Addin the audio call FR
+7.Adding the video call feature
